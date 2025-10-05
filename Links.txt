@@ -1,7 +1,7 @@
-https://github.com/metigator/CSharp_Lesson_038
+https://dotnettutorials.net/lesson/async-and-await-operator-in-csharp/
 https://dotnettutorials.net/lesson/task-in-csharp/
 https://dotnettutorials.net/lesson/return-a-value-from-a-task-in-csharp/
 https://dotnettutorials.net/lesson/chaining-tasks-by-using-continuation-tasks/
-https://dotnettutorials.net/lesson/async-and-await-operator-in-csharp/
 https://dotnettutorials.net/lesson/how-to-cancel-a-task-in-csharp/
+https://dotnettutorials.net/lesson/asynchronous-programming-in-csharp/
 https://learn.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/task-based-asynchronous-pattern-tap
